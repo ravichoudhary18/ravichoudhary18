@@ -27,16 +27,16 @@ I'm a passionate **Full Stack Developer** with expertise in **backend developmen
 
 ## 📊 GitHub Stats  
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi-choudhary&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-choudhary&layout=compact&theme=radical)  
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravichoudhary18&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravichoudhary18&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Let's Connect  
 
 📧 **Email:** ravi18choudhary18@gmail.com  
-📱 **LinkedIn:** [linkedin.com/in/ravi-choudhary](#)  
-💻 **GitHub:** [github.com/ravi-choudhary](#)  
+📱 **LinkedIn:** [linkedin.com/in/ravi18choudhary18](#)  
+💻 **GitHub:** [github.com/ravichoudhary18](#)  
 
 🚀 Always excited to collaborate on new projects and learn from the community!  
 
